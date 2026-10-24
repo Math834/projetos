@@ -1,2 +1,2 @@
-# projetos
-projetos de estudo, aprendizado e diversão, minhas competências
+# projetos_python
+ projetos para aprender e me divertir
